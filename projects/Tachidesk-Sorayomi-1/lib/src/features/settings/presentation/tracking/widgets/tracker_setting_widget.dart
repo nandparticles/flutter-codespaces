@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:intl/intl.dart';
 
 import '../../../../../constants/app_sizes.dart';
@@ -15,9 +16,6 @@ import '../../../../manga_book/domain/manga/manga_model.dart';
 import '../../../../manga_book/presentation/manga_details/controller/manga_details_controller.dart';
 import '../../../data/tracking/tracking_repository.dart';
 import '../../../domain/tracking/tracking_model.dart';
-
-import 'package:hooks_riverpod/hooks_riverpod.dart';
-
 import '../controller/tracking_controller.dart';
 import 'tracker_add_widget.dart';
 import 'tracker_status_widget.dart';

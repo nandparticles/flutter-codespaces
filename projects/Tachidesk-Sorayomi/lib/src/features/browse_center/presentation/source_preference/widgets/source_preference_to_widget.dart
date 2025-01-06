@@ -6,10 +6,6 @@
 
 import 'package:flutter/material.dart';
 
-import '../../../../../utils/extensions/custom_extensions.dart';
-import '../../../../../widgets/multi_select_popup.dart';
-import '../../../../../widgets/radio_list_popup.dart';
-import '../../../../../widgets/text_field_popup.dart';
 import '../../../domain/source_preference/source_preference.dart';
 import '../../../domain/source_preference_prop/source_preference_prop.dart';
 

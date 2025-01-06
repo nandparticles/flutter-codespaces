@@ -6,10 +6,6 @@
 
 import 'package:flutter/material.dart';
 
-import '../../../../../constants/app_sizes.dart';
-import '../../../../../utils/extensions/custom_extensions.dart';
-import '../../../../../widgets/search_field.dart';
-import '../../../../../widgets/sort_list_tile.dart';
 import '../../../domain/filter/filter_model.dart';
 import '../../../domain/filter_state/filter_state_model.dart';
 
