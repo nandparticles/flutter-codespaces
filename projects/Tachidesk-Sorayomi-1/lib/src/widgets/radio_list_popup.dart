@@ -131,7 +131,7 @@ class RadioList<T> extends StatelessWidget {
                     },
                   ),
                 )
-                .toList(),
+                ,
             ...?additionWidgets,
           ],
         ),
